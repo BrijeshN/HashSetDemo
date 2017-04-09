@@ -6,6 +6,8 @@ public class HashSetDemo {
 
     public static void main(String[] args) {
         
+        System.out.println("Simple HashSet program");
+        
         HashSet<Integer> intSet = new HashSet<>();
         
         intSet.add(2);
